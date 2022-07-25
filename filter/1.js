@@ -1,3 +1,5 @@
+//https://stackoverflow.com/questions/55520415/how-to-filter-data-of-a-html-table-with-a-drop-down-menu-with-javascript
+
 function filterTable() {
   // Variables
   let dropdown, table, rows, cells, country, filter;

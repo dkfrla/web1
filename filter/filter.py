@@ -1,4 +1,5 @@
 #!C:\Python38\python.exe
+#https://homzzang.com/b/bs4-37
 
 print("Content-Type: text/html; charset=UTF-8\n")
 
